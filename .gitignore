@@ -1,2 +1,11 @@
 # Project exclude paths
 /out/
+
+.idea
+*.iml
+
+/target/
+
+.classpath
+.settings
+.project
